@@ -38,7 +38,7 @@ def keep_alive():
 BOT_TOKEN = "8692559922:AAHrJpUsiDnVUf-0FuCFjAM70uO8GtlOI2Y"
 
 # Admin ka numeric Telegram Chat ID
-ADMIN_CHAT_ID = 8200494184
+ADMIN_CHAT_ID = 7672627998
 
 
 # ============================================================
@@ -89,8 +89,8 @@ BINANCE_DETAILS = """
 UID:
 1176282510
 
-Username:
-sanjudox
+
+
 
 Step 1️⃣ Send Payment
 
@@ -103,7 +103,7 @@ PAYPAL_DETAILS = """
 💳 PayPal
 
 PayPal:
-Username - @Rajkamalhero  
+Email - jkuiksj@gmail.com
 Step 1️⃣ Send Payment
 
 Step 2️⃣ Send Payment Screenshot For Verification
@@ -114,7 +114,7 @@ Step 3️⃣ Wait For Reply
 REMITLY_DETAILS = """
 💳 Remitly to UPI 
 
-I give u UPI- sanjubaba-international@cnrb
+I give u UPI- captain.ctx@jio
 
 Step 1️⃣ Send Payment
 
@@ -131,7 +131,7 @@ UPI_DETAILS = """
 💳 UPI
 
 UPI ID:
-sanjubaba-international@cnrb 
+captain.ctx@jio
 """
 
 REVOLUT_DETAILS = """
@@ -260,7 +260,7 @@ def payment_page_keyboard():
         [
             InlineKeyboardButton(
                 "📸 Send Payment Screenshot For verification",
-                url="https://t.me/Raniivideo"
+                url="https://t.me/allcollectionvDM"
             )
         ],
         [
