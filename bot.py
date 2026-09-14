@@ -137,7 +137,7 @@ captain.ctx@jio
 REVOLUT_DETAILS = """
 💳 Revolut
 
-@Raniivideo Dm me 
+@allcollectionvDM Dm me 
 """
 
 CRYPTO_DETAILS = """
@@ -182,7 +182,7 @@ PACKAGE_DETAILS = """
 \n⭐ʙʟᴏᴡ ᴊᴏʙ/ꜱᴜᴄᴋɪɴɢ
 \n⭐ʀᴜꜱꜱɪᴀɴ (ɢʀᴏᴜᴘ)
 
-\n ᴘʀɪᴄᴇ - 1999₹ 🪙  @Raniivideo 
+\n ᴘʀɪᴄᴇ - 1999₹ 🪙  @allcollectionvDM
 \n ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ - 99$💰
 
 \n 500 ɢʙ ᴍᴇɢᴀ ʟɪɴᴋ ꜰʀᴇᴇ📍
@@ -449,7 +449,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await query.message.delete()
         await context.bot.send_message(
             chat_id=query.from_user.id,
-            text="❓ @raniivideo , @sanju100K \n\nPlease contact our support team. And Wait For Reply",
+            text="❓ @allcollectionvDM , @GOJOxSELLS \n\nPlease contact our support team. And Wait For Reply",
             reply_markup=InlineKeyboardMarkup(keyboard)
         )
         return
